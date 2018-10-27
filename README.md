@@ -8,7 +8,7 @@ Repositori ini dibuat untuk menyimpan berkas-berkas untuk dibagikan secara bebas
 
 # LISENSI
 
-Lisensi untuk karya-karya yang disimpan dalam repositori ini menggunakan lisensi (CC BY-NC-SA)[https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode]. Lisensi ini mengizinkan penggandaan dan modifikasi dengan syarat:
+Lisensi untuk karya-karya yang disimpan dalam repositori ini menggunakan lisensi [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). Lisensi ini mengizinkan penggandaan dan modifikasi dengan syarat:
 
 - Tidak untuk kepentingan komersial
 - Mencantumkan atribusi ke pembuat/pemilik asli dan komunitas GIMPSCAPE
