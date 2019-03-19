@@ -14,4 +14,4 @@ Lisensi untuk karya-karya yang disimpan dalam repositori ini menggunakan lisensi
 - Mencantumkan atribusi ke pembuat/pemilik asli dan komunitas GIMPSCAPE
 - Menyertakan lisensi yang sama dengan yang asli, yaitu CC BY-NC-SA
 
-Bilamana penggandaan dan modifikasi perlu keluar dari syarat-syarat di atas, pihak terkait wajib mengajukan permohonan izin ke komunitas Gimpscape
+Bilamana penggandaan dan modifikasi perlu keluar dari syarat-syarat di atas, pihak terkait wajib mengajukan permohonan izin ke komunitas Gimpscape atau pemilik karya.
